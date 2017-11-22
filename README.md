@@ -38,7 +38,7 @@ Options are optional.
 
 - encoding: default to `utf8`
 - delimiter: default to `,`
-- newlint: default to `\n`
+- newline: default to `\n`
 - quote: default to `\"`
 
 ## Definitions
