@@ -6,11 +6,13 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.2.1"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "mocha"
+    "test": "jest",
+    "watch": "jest --watch"
   },
   "repository": {
     "type": "git",
